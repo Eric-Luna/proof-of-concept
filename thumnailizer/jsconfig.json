@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": [
+        "components/*"
+      ],
+      "@/pages/*": [
+        "pages/*"
+      ],
+      "@/utils/*": [
+        "utils/*"
+      ],
+      "@/firebase": [
+        "firebase.config.js"
+      ]
+    }
+  }
+}
