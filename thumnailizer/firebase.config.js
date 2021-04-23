@@ -3,8 +3,6 @@ import 'firebase/firestore';
 import 'firebase/auth';
 import 'firebase/storage';
 
-console.log({env: process.env})
-
 const config = {
   apiKey: "AIzaSyCt7gbz5zRKBTL6dt2PI-vp34iowkjt0qU",
   authDomain: "imgrszr-dc5dd.firebaseapp.com",
